@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 #### About Me ?
 
 - 🏫 I'm a Graduate of  Bachelor’s degree in Information Technology from Anna University, Chennai.
-- ⚡️ My expertise primarily revolves around Frontend Development, Web application Development, NextJS, Rust & Blockchain(Solana) development.
-- ⚡️ Currently working as Software Engineer at [NDS]. 
+- ⚡️ My expertise primarily revolves around Frontend Development, Web application Development, Android Application development and Machine Learning
+- ⚡️ Currently working as Software Engineer at [NDS]() [ Guidewire | Thunderhead | SmartComm ]. 
 - 🔭 Worked with multiple project from different organizations and Tecnologies like [LetsGrowMore VIP](https://www.linkedin.com/groups/12540463/results/content/?keywords=Rashad%20H) [Android Developer], [IBM SkillsBuild](https://drive.google.com/file/d/15LfX-3AQL5bqbS1pI_QmoUrl-BSiT-o0/view?usp=sharing) [FrontEnd Developer], [SmartInternz](https://smartinternz.com/internships/salesforce_certificates/1e95f2352f054556ff064e8fda5fa059) [Salesforce Admin], [Oasis](https://drive.google.com/file/d/1rT4ZgKfce-kn5DEJLzN9_uQTvOhmMvKR/view) [Web Designer and Developer] & [NDS](https://hrashad.github.io/FED-Protfolio/#experience) [Engineer]
 - ♥️ I love to  work on future product's and contribute to open-source products.
 
